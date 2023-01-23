@@ -1,12 +1,8 @@
 from django.shortcuts import render
 from .models import Profile
-
-# Create your views here.
+from .forms import DweetForm
 from django.shortcuts import render
-
-
-def dashboard(request):
-    return render(request, "base.html")
+# Create your views here.
 
 
 def profile_list(request):
@@ -29,3 +25,6 @@ def profile(request, pk):
             current_user_profile.follows.remove(profile)
         current_user_profile.save()
     return render(request, "dwitter/profile.html", {"profile": profile})
+def dashboard(request):
+    form = DweetForm()
+    return render(request, "dwitter/dashboard.html", {"form": form})
