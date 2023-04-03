@@ -2,7 +2,7 @@
 A social networking site that would like friendship requests, posts and comments\
 
 # Image
-![Clothes_Online_Store.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/social.jpg)
-![Clothes_Online_Store.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/social_1.jpg)
-![Clothes_Online_Store.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/social_2.jpg)
-![Clothes_Online_Store.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/social_3.jpg)
+![dwitter.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/dwitter.jpg)
+![dwitter.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/dwitter_1.jpg)
+![dwitter.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/dwitter_2.jpg)
+![dwitter.png](https://hussamahalshawi.pythonanywhere.com/media/image_Project/dwitter_3.jpg)
